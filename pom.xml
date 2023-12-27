@@ -35,4 +35,8 @@
             <version>2.4.0-b180830.0359</version> <!-- Use the latest version -->
         </dependency>
     </dependencies>
+
+    <build>
+        <finalName>maven_test_project</finalName>
+    </build>
 </project>
